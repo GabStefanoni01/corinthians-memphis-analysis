@@ -1,39 +1,106 @@
-ID	Data	Temporada	Competição	Fase/Rodada	Mandante	Visitante	Gols Mandante	Gols Visitante	Resultado Corinthians	Casa/Fora	Tipo de Jogo
-1	21/09/2024	2024	Brasileirão	27 Rodada	Corinthians	Atlético-GO	3	0	V	Casa	Oficial
-2	24/09/2024	2024	Sul-Americana	Quartas	Corinthians	Fortaleza	3	0	V	Casa	Oficial
-3	29/09/2024	2024	Brasileirão	28 Rodada	São Paulo	Corinthians	3	1	D	Fora	Oficial
-4	02/10/2024	2024	Copa Do Brasil	Semis	Flamengo	Corinthians	1	0	D	Fora	Oficial
-5	05/10/2024	2024	Brasileirão	29 Rodada	Corinthians	Internacional	2	2	E	Casa	Oficial
-6	17/10/2024	2024	Brasileirão	30 Rodada	Corinthians	Athletico-PR	5	2	V	Casa	Oficial
-7	20/10/2024	2024	Copa Do Brasil	Semis	Corinthians	Flamengo	0	0	E	Casa	Oficial
-8	24/10/2024	2024	Sul-Americana	Semis	Corinthians	Racing	2	2	E	Casa	Oficial
-9	28/10/2024	2024	Brasileirão	31 Rodada	Cuiabá	Corinthians	0	1	V	Fora	Oficial
-10	31/10/2024	2024	Sul-Americana	Semis	Racing	Corinthians	2	1	D	Fora	Oficial
-11	04/11/2024	2024	Brasileirão	32 Rodada	Corinthians	Palmeiras	2	0	V	Casa	Oficial
-12	09/11/2024	2024	Brasileirão	33 Rodada	Vitória	Corinthians	1	2	V	Fora	Oficial
-13	20/11/2024	2024	Brasileirão	34 Rodada	Corinthians	Cruzeiro	2	1	V	Casa	Oficial
-14	24/11/2024	2024	Brasileirão	35 Rodada	Corinthians	Vasco	3	1	V	Casa	Oficial
-15	30/11/2024	2024	Brasileirão	36 Rodada	Corinthians	Criciúma	2	4	V	Fora	Oficial
-16	03/12/2024	2024	Brasileirão	37 Rodada	Corinthians	Bahia	3	0	V	Casa	Oficial
-17	08/12/2024	2024	Brasileirão	38 Rodada	Grêmio	Corinthians	0	3	V	Fora	Oficial
-18	16/01/2025	2025	Paulistão	1 Rodada	Bragantino	Corinthians	1	2	V	Fora	Oficial
-19	19/01/2025	2025	Paulistão	2 Rodada	Corinthians	Velo Clube	2	1	V	Casa	Oficial
-20	22/01/2025	2025	Paulistão	3 Rodada	Corinthians	Água Santa	2	1	V	Casa	Oficial
-21	26/01/2025	2025	Paulistão	4 Rodada	São Paulo	Corinthians	3	1	D	Fora	Oficial
-22	29/01/2025	2025	Paulistão	5 Rodada	Ponte Preta	Corinthians	0	1	V	Fora	Oficial
-23	01/02/2025	2025	Paulistão	6 Rodada	Corinthians	Noroeste	2	1	V	Casa	Oficial
-24	03/02/2025	2025	Paulistão	7 Rodada	Novorizontino	Corinthians	0	1	V	Fora	Oficial
-25	06/02/2025	2025	Paulistão	8 Rodada	Palmeiras	Corinthians	1	1	E	Fora	Oficial
-26	09/02/2025	2025	Paulistão	9 Rodada	Corinthians	São Bernardo	2	0	V	Casa	Oficial
-27	12/02/2025	2025	Paulistão	10 Rodada	Corinthians	Santos	2	1	V	Casa	Oficial
-28	15/02/2025	2025	Paulistão	11 Rodada	Portuguesa	Corinthians	2	2	E	Fora	Oficial
-29	19/02/2025	2025	Libertadores	Playoffs	Universidad Central	Corinthians	1	1	E	Fora	Oficial
-30	23/02/2025	2025	Paulistão	12 Rodada	Corinthians	Guaraní	2	2	E	Casa	Oficial
-31	26/02/2025	2025	Libertadores	Playoffs	Corinthians	Universidad Central	3	2	V	Casa	Oficial
-32	02/03/2025	2025	Paulistão	Quartas	Corinthians	Mirassol	2	0	V	Casa	Oficial
-33	05/03/2025	2025	Libertadores	Playoffs	Barcelona-Equador	Corinthians	3	0	D	Fora	Oficial
-34	09/03/2025	2025	Paulistão	Semis	Corinthians	Santos	2	1	V	Casa	Oficial
-35	12/03/2025	2025	Libertadores	Playoffs	Corinthians	Barcelona-Equador	2	0	V	Casa	Oficial
-36	16/03/2025	2025	Paulistão	Final	Palmeiras	Corinthians	0	1	V	Fora	Oficial
-37	27/03/2025	2025	Paulistão	Final	Corinthians	Palmeiras	0	0	E	Casa	Oficial
-38	30/03/2025	2025	Brasileirão	1 Rodada	Bahia	Corinthians	1	1	E	Fora	Oficial
+ID;Data;Temporada;Competição;Fase/Rodada;Mandante;Visitante;Gols Mandante;Gols Visitante;Resultado Corinthians;Casa/Fora;Tipo de Jogo
+1;21/09/2024;2024;Brasileirão;27 Rodada;Corinthians;Atlético-GO;3;0;V;Casa;Oficial
+2;24/09/2024;2024;Sul-Americana;Quartas;Corinthians;Fortaleza;3;0;V;Casa;Oficial
+3;29/09/2024;2024;Brasileirão;28 Rodada;São Paulo;Corinthians;3;1;D;Fora;Oficial
+4;02/10/2024;2024;Copa Do Brasil;Semis;Flamengo;Corinthians;1;0;D;Fora;Oficial
+5;05/10/2024;2024;Brasileirão;29 Rodada;Corinthians;Internacional;2;2;E;Casa;Oficial
+6;17/10/2024;2024;Brasileirão;30 Rodada;Corinthians;Athletico-PR;5;2;V;Casa;Oficial
+7;20/10/2024;2024;Copa Do Brasil;Semis;Corinthians;Flamengo;0;0;E;Casa;Oficial
+8;24/10/2024;2024;Sul-Americana;Semis;Corinthians;Racing;2;2;E;Casa;Oficial
+9;28/10/2024;2024;Brasileirão;31 Rodada;Cuiabá;Corinthians;0;1;V;Fora;Oficial
+10;31/10/2024;2024;Sul-Americana;Semis;Racing;Corinthians;2;1;D;Fora;Oficial
+11;04/11/2024;2024;Brasileirão;32 Rodada;Corinthians;Palmeiras;2;0;V;Casa;Oficial
+12;09/11/2024;2024;Brasileirão;33 Rodada;Vitória;Corinthians;1;2;V;Fora;Oficial
+13;20/11/2024;2024;Brasileirão;34 Rodada;Corinthians;Cruzeiro;2;1;V;Casa;Oficial
+14;24/11/2024;2024;Brasileirão;35 Rodada;Corinthians;Vasco;3;1;V;Casa;Oficial
+15;30/11/2024;2024;Brasileirão;36 Rodada;Corinthians;Criciúma;2;4;V;Fora;Oficial
+16;03/12/2024;2024;Brasileirão;37 Rodada;Corinthians;Bahia;3;0;V;Casa;Oficial
+17;08/12/2024;2024;Brasileirão;38 Rodada;Grêmio;Corinthians;0;3;V;Fora;Oficial
+18;16/01/2025;2025;Paulistão;1 Rodada;Bragantino;Corinthians;1;2;V;Fora;Oficial
+19;19/01/2025;2025;Paulistão;2 Rodada;Corinthians;Velo Clube;2;1;V;Casa;Oficial
+20;22/01/2025;2025;Paulistão;3 Rodada;Corinthians;Água Santa;2;1;V;Casa;Oficial
+21;26/01/2025;2025;Paulistão;4 Rodada;São Paulo;Corinthians;3;1;D;Fora;Oficial
+22;29/01/2025;2025;Paulistão;5 Rodada;Ponte Preta;Corinthians;0;1;V;Fora;Oficial
+23;01/02/2025;2025;Paulistão;6 Rodada;Corinthians;Noroeste;2;1;V;Casa;Oficial
+24;03/02/2025;2025;Paulistão;7 Rodada;Novorizontino;Corinthians;0;1;V;Fora;Oficial
+25;06/02/2025;2025;Paulistão;8 Rodada;Palmeiras;Corinthians;1;1;E;Fora;Oficial
+26;09/02/2025;2025;Paulistão;9 Rodada;Corinthians;São Bernardo;2;0;V;Casa;Oficial
+27;12/02/2025;2025;Paulistão;10 Rodada;Corinthians;Santos;2;1;V;Casa;Oficial
+28;15/02/2025;2025;Paulistão;11 Rodada;Portuguesa;Corinthians;2;2;E;Fora;Oficial
+29;19/02/2025;2025;Libertadores;Playoffs;Universidad Central;Corinthians;1;1;E;Fora;Oficial
+30;23/02/2025;2025;Paulistão;12 Rodada;Corinthians;Guaraní;2;2;E;Casa;Oficial
+31;26/02/2025;2025;Libertadores;Playoffs;Corinthians;Universidad Central;3;2;V;Casa;Oficial
+32;02/03/2025;2025;Paulistão;Quartas;Corinthians;Mirassol;2;0;V;Casa;Oficial
+33;05/03/2025;2025;Libertadores;Playoffs;Barcelona-Equador;Corinthians;3;0;D;Fora;Oficial
+34;09/03/2025;2025;Paulistão;Semis;Corinthians;Santos;2;1;V;Casa;Oficial
+35;12/03/2025;2025;Libertadores;Playoffs;Corinthians;Barcelona-Equador;2;0;V;Casa;Oficial
+36;16/03/2025;2025;Paulistão;Final;Palmeiras;Corinthians;0;1;V;Fora;Oficial
+37;27/03/2025;2025;Paulistão;Final;Corinthians;Palmeiras;0;0;E;Casa;Oficial
+38;30/03/2025;2025;Brasileirão;1 Rodada;Bahia;Corinthians;1;1;E;Fora;Oficial
+39;05/04/2025;2025;Brasileirão;2 Rodada;Corinthians;Vasco;3;0;V;Casa;Oficial
+40;08/04/2025;2025;Sul-Americana;Fase de Grupos;América de Cali;Corinthians;1;1;E;Fora;Oficial
+41;12/04/2025;2025;Brasileirão;3 Rodada;Palmeiras;Corinthians;2;0;D;Fora;Oficial
+42;16/04/2025;2025;Brasileirão;4 Rodada;Corinthians;Fluminense;0;2;D;Casa;Oficial
+43;19/04/2025;2025;Brasileirão;5 Rodada;Corinthians;Sport;2;1;V;Casa;Oficial
+44;24/04/2025;2025;Sul-Americana;Fase de Grupos;Corinthians;Racing-URU;1;0;V;Casa;Oficial
+45;27/04/2025;2025;Brasileirão;6 Rodada;Flamengo;Corinthians;4;0;D;Fora;Oficial
+46;30/04/2025;2025;Copa Do Brasil;3 Fase- Ida;Novorizontino;Corinthians;0;1;V;Fora;Oficial
+47;03/05/2025;2025;Brasileirão;7 Rodada;Corinthians;Internacional;4;2;V;Casa;Oficial
+48;06/05/2025;2025;Sul-Americana;Fase de Grupos;Corinthians;América de Cali;1;1;E;Casa;Oficial
+49;10/05/2025;2025;Brasileirão;8 Rodada;Mirassol;Corinthians;2;1;D;Fora;Oficial
+50;15/05/2025;2025;Sul-Americana;Fase de Grupos;Racing-URU;Corinthians;0;1;V;Fora;Oficial
+51;18/05/2025;2025;Brasileirão;9 Rodada;Corinthians;Santos;1;0;V;Casa;Oficial
+52;21/05/2025;2025;Copa Do Brasil;3 Fase- Volta;Corinthians;Novorizontino;1;0;V;Casa;Oficial
+53;24/05/2025;2025;Brasileirão;10 Rodada;Atlético-MG;Corinthians;0;0;E;Fora;Oficial
+54;27/05/2025;2025;Sul-Americana;Fase de Grupos;Huracán;Corinthians;1;0;D;Fora;Oficial
+55;01/06/2025;2025;Brasileirão;11 Rodada;Corinthians;Vitória;0;0;E;Casa;Oficial
+56;12/06/2025;2025;Brasileirão;12 Rodada;Grêmio;Corinthians;1;1;E;Fora;Oficial
+57;13/07/2025;2025;Brasileirão;13 Rodada;Corinthians;Bragantino;0;0;E;Casa;Oficial
+58;16/07/2025;2025;Brasileirão;14 Rodada;Ceará;Corinthians;0;1;V;Fora;Oficial
+59;19/07/2025;2025;Brasileirão;15 Rodada;São Paulo;Corinthians;2;0;D;Fora;Oficial
+60;23/07/2025;2025;Brasileirão;16 Rodada;Corinthians;Cruzeiro;0;0;E;Casa;Oficial
+61;26/07/2025;2025;Brasileirão;17 Rodada;Botafogo;Corinthians;1;1;E;Fora;Oficial
+62;30/07/2025;2025;Copa Do Brasil;Oitavas - Ida;Corinthians;Palmeiras;1;0;V;Casa;Oficial
+63;03/08/2025;2025;Brasileirão;18 Rodada;Corinthians;Fortaleza;1;1;E;Casa;Oficial
+64;06/08/2025;2025;Copa Do Brasil;Oitavas - Volta;Palmeiras;Corinthians;0;2;V;Fora;Oficial
+65;11/08/2025;2025;Brasileirão;19 Rodada;Juventude;Corinthians;2;1;D;Fora;Oficial
+66;16/08/2025;2025;Brasileirão;20 Rodada;Corinthians;Bahia;1;2;D;Casa;Oficial
+67;24/08/2025;2025;Brasileirão;21 Rodada;Vasco;Corinthians;2;3;V;Fora;Oficial
+68;27/08/2025;2025;Copa Do Brasil;Quartas - Ida;Athletico-PR;Corinthians;0;1;V;Fora;Oficial
+69;31/08/2025;2025;Brasileirão;22 Rodada;Corinthians;Palmeiras;1;1;E;Casa;Oficial
+70;10/09/2025;2025;Copa Do Brasil;Quartas- Volta;Corinthians;Athletico-PR;2;0;V;Casa;Oficial
+71;13/09/2025;2025;Brasileirão;23 Rodada;Fluminense;Corinthians;0;1;V;Fora;Oficial
+72;21/09/2025;2025;Brasileirão;24 Rodada;Sport;Corinthians;1;0;D;Fora;Oficial
+73;28/09/2025;2025;Brasileirão;25 Rodada;Corinthians;Flamengo;1;2;D;Casa;Oficial
+74;01/10/2025;2025;Brasileirão;26 Rodada ;Internacional;Corinthians;1;1;E;Fora;Oficial
+75;04/10/2025;2025;Brasileirão;27 Rodada;Corinthians;Mirassol;3;0;V;Casa;Oficial
+76;15/10/2025;2025;Brasileirão;28 Rodada;Santos;Corinthians;3;1;D;Fora;Oficial
+77;18/10/2025;2025;Brasileirão;29 Rodada;Corinthians;Atlético-MG;1;0;V;Casa;Oficial
+78;25/10/2025;2025;Brasileirão;30 Rodada;Vitória;Corinthians;0;1;V;Fora;Oficial
+79;02/11/2025;2025;Brasileirão;31 Rodada;Corinthians;Grêmio;2;0;V;Casa;Oficial
+80;05/11/2025;2025;Brasileirão;32 Rodada;Bragantino;Corinthians;2;1;D;Fora;Oficial
+81;09/11/2025;2025;Brasileirão;33 Rodada;Corinthians;Ceará;0;1;D;Casa;Oficial
+82;20/11/2025;2025;Brasileirão;34 Rodada;Corinthians;São Paulo;3;1;V;Casa;Oficial
+83;23/11/2025;2025;Brasileirão;35 Rodada;Cruzeiro;Corinthians;3;0;D;Fora;Oficial
+84;30/11/2025;2025;Brasileirão;36 Rodada;Corinthians;Botafogo;2;2;E;Casa;Oficial
+85;03/12/2025;2025;Brasileirão;37 Rodada;Fortaleza;Corinthians;2;1;D;Fora;Oficial
+86;07/12/2025;2025;Brasileirão;38 Rodada;Corinthians;Juventude;1;1;E;Casa;Oficial
+87;10/12/2025;2025;Copa Do Brasil;Semis - Ida;Cruzeiro;Corinthians;0;1;V;Fora;Oficial
+88;14/12/2025;2025;Copa Do Brasil;Semis - Volta;Corinthians;Cruzeiro;1;2;D;Casa;Oficial
+89;17/12/2025;2025;Copa Do Brasil;Final - Ida;Corinthians;Vasco;0;0;E;Casa;Oficial
+90;21/12/2025;2025;Copa Do Brasil;Final - Volta;Vasco;Corinthians;1;2;V;Fora;Oficial
+91;11/01/2026;2026;Paulistão;1 Rodada;Corinthians;Ponte Preta;3;0;V;Casa;Oficial
+92;15/01/2026;2026;Paulistão;2 Rodada;Bragantino;Corinthians;3;0;D;Fora;Oficial
+93;18/01/2026;2026;Paulistão;3 Rodada;Corinthians;São Paulo;1;1;E;Casa;Oficial
+94;22/01/2026;2026;Paulistão;4 Rodada;Santos;Corinthians;1;1;E;Fora;Oficial
+95;25/01/2026;2026;Paulistão;5 Rodada;Velo Clube;Corinthians;0;1;V;Fora;Oficial
+96;28/01/2026;2026;Brasileirão;1 Rodada;Corinthians;Bahia;1;2;D;Casa;Oficial
+97;01/02/2026;2026;SuperCopa;Final;Flamengo;Corinthians;0;2;V;Neutro;Oficial
+98;05/02/2026;2026;Paulistão;6 Rodada;Corinthians;Capivariano;3;0;V;Casa;Oficial
+99;08/09/2026;2026;Paulistão;7 Rodada;Corinthians;Palmeiras;0;1;D;Casa;Oficial
+100;12/02/2026;2026;Brasileirão;3 Rodada;Corinthians;Bragantino;2;0;V;Casa;Oficial
+101;15/02/2026;2026;Paulistão;8 Rodada;São Bernardo;Corinthians;0;1;V;Fora;Oficial
+102;19/02/2026;2026;Brasileirão;2 Rodada;Athletico-PR;Corinthians;0;1;V;Fora;Oficial
+103;22/02/2026;2026;Paulistão;Quartas;Portuguesa;Corinthians;1;1;E;Fora;Oficial
+104;25/02/2026;2026;Brasileirão;4 Rodada;Cruzeiro;Corinthians;1;1;E;Fora;Oficial
+105;28/02/2026;2026;Paulistão;Quartas;Novorizontino;Corinthians;1;0;D;Fora;Oficial
