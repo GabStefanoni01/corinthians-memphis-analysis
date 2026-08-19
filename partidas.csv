@@ -97,10 +97,40 @@ ID;Data;Temporada;Competição;Fase/Rodada;Mandante;Visitante;Gols Mandante;Gols V
 96;28/01/2026;2026;Brasileirão;1 Rodada;Corinthians;Bahia;1;2;D;Casa;Oficial
 97;01/02/2026;2026;SuperCopa;Final;Flamengo;Corinthians;0;2;V;Neutro;Oficial
 98;05/02/2026;2026;Paulistão;6 Rodada;Corinthians;Capivariano;3;0;V;Casa;Oficial
-99;08/09/2026;2026;Paulistão;7 Rodada;Corinthians;Palmeiras;0;1;D;Casa;Oficial
+99;08/02/2026;2026;Paulistão;7 Rodada;Corinthians;Palmeiras;0;1;D;Casa;Oficial
 100;12/02/2026;2026;Brasileirão;3 Rodada;Corinthians;Bragantino;2;0;V;Casa;Oficial
 101;15/02/2026;2026;Paulistão;8 Rodada;São Bernardo;Corinthians;0;1;V;Fora;Oficial
 102;19/02/2026;2026;Brasileirão;2 Rodada;Athletico-PR;Corinthians;0;1;V;Fora;Oficial
 103;22/02/2026;2026;Paulistão;Quartas;Portuguesa;Corinthians;1;1;E;Fora;Oficial
 104;25/02/2026;2026;Brasileirão;4 Rodada;Cruzeiro;Corinthians;1;1;E;Fora;Oficial
-105;28/02/2026;2026;Paulistão;Quartas;Novorizontino;Corinthians;1;0;D;Fora;Oficial
+105;28/02/2026;2026;Paulistão;Semis;Novorizontino;Corinthians;1;0;D;Fora;Oficial
+106;11/03/2026;2026;Brasileirão;5 Rodada;Corinthians;Corinthians;0;2;D;Casa;Oficial
+107;15/03/2026;2026;Brasileirão;6 Rodada;Santos;Corinthians;1;1;E;Fora;Oficial
+108;19/03/2026;2026;Brasileirão;7 Rodada;Chapecoense;Corinthians;0;0;E;Fora;Oficial
+109;22/03/2026;2026;Brasileirão;8 Rodada;Corinthians;Flamengo;1;1;E;Casa;Oficial
+110;01/04/2026;2026;Brasileirão;9 Rodada;Fluminense;Corinthians;3;1;D;Fora;Oficial
+111;05/04/2026;2026;Brasileirão;10 Rodada;Corinthians;Internacional;0;1;D;Casa;Oficial
+112;09/04/2026;2026;Libertadores;Fase de Grupos;Platense;Corinthians;0;2;V;Fora;Oficial
+113;12/04/2026;2026;Brasileirão;11 Rodada;Corinthians;Palmeiras;0;0;E;Casa;Oficial
+114;15/04/2026;2026;Libertadores;Fase de Grupos;Corinthians;Santa fe;2;0;V;Casa;Oficial
+115;18/04/2026;2026;Brasileirão;12 Rodada;Vitória;Corinthians;0;0;E;Fora;Oficial
+116;21/04/2026;2026;Copa Do Brasil;3 Fase - Ida;Barra;Corinthians;0;1;V;Fora;Oficial
+117;26/04/2026;2026;Brasileirão;13 Rodada;Corinthians;Vasco;1;0;V;Casa;Oficial
+118;30/04/2026;2026;Libertadores;Fase de Grupos;Corinthians;Penarol;2;0;V;Casa;Oficial
+119;03/05/2026;2026;Brasileirão;14 Rodada;Mirassol;Corinthians;2;1;D;Fora;Oficial
+120;06/05/2026;2026;Libertadores;Fase de Grupos;Santa Fe;Corinthians;1;1;E;Fora;Oficial
+121;10/05/2026;2026;Brasileirão;15 Rodada;Corinthians;São Paulo;3;2;V;Casa;Oficial
+122;14/05/2026;2026;Copa Do Brasil;3 Fase - Volta;Corinthians;Barra -SC;1;0;V;Casa;Oficial
+123;17/05/2026;2026;Brasileirão;16 Rodada;Botafogo;Corinthians;3;1;D;Fora;Oficial
+124;21/05/2026;2026;Libertadores;Fase de Grupos;Penarol;Corinthians;1;1;E;Fora;Oficial
+125;24/05/2026;2026;Brasileirão;17 Rodada;Corinthians;Atlético-MG;1;0;V;Casa;Oficial
+126;27/05/2026;2026;Libertadores;Fase de Grupos;Corinthians;Platense;0;2;D;Casa;Oficial
+127;30/05/2026;2026;Brasileirão;18 Rodada;Grêmio;Corinthians;1;3;V;Fora;Oficial
+128;23/07/2026;2026;Brasileirão;19 Rodada;Corinthians;Remo;3;0;V;Casa;Oficial
+129;26/07/2026;2026;Brasileirão;20 Rodada;Bahia;Corinthians;1;1;E;Fora;Oficial
+130;30/07/2026;2026;Brasileirão;21 Rodada;Corinthians;Athletico-PR;0;0;E;Casa;Oficial
+131;02/08/2026;2026;Copa Do Brasil;Oitavas - Ida;Internacional;Corinthians;2;0;D;Fora;Oficial
+132;06/08/2026;2026;Copa Do Brasil;Oitavas -  Volta;Corinthians;Internacional;2;1;V;Casa;Oficial
+133;09/08/2026;2026;Brasileirão;22 Rodada;Bragantino;Corinthians;0;1;V;Fora;Oficial
+134;14/08/2026;2026;Libertadores;Oitavas - Ida;Rosario Central;Corinthians;0;0;E;Fora;Oficial
+135;16/08/2026;2026;Brasileirão;23 Rodada;Corinthians;Cruzeiro;1;2;D;Casa;Oficial
